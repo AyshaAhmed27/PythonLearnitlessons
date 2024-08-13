@@ -10,3 +10,5 @@ average_of_veggies=round(2)
 print("Total veggies in Rs:",total_veggies)
 print("Price left:",price_left)
 print("Average of total items:",average_of_veggies)
+reminder= 24 % 24
+print(reminder)
